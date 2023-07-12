@@ -5,7 +5,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/vijeth-simha/nodejs-express-webapp-template">
     <img src="public/img/brand/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -15,7 +15,7 @@
     The purpose of the project is as a starting point or template for building web applications using Node.js and Express. !
     <br />
     <br />
-    <a href="https://github.com/vijeth-simha/web-app/issues">Report Bug</a>
+    <a href="https://github.com/vijeth-simha/nodejs-express-webapp-template/issues">Report Bug</a>
   </p>
 </div>
 
@@ -86,7 +86,7 @@ Install [Node.js](https://nodejs.org/en/) version 14 and above.
 
 1. Clone the repository
 ```
-git clone  https://github.com/vijeth-simha/web-app.git
+git clone  https://github.com/vijeth-simha/nodejs-express-webapp-template.git
 ```
 2. Install dependencies
 ```
@@ -132,7 +132,7 @@ npm run build
 - [ ] Add test cases
 - [ ] Add additional pages for further development
 
-See the [open issues](https://github.com/vijeth-simha/web-app/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/vijeth-simha/nodejs-express-webapp-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +159,7 @@ Don't forget to give the project a star! Thanks again!
 
 Your Name - [@vijeth_simha](https://twitter.com/vijeth_simha) - vijethsimha71@gmail.com
 
-Project Link: [https://github.com/vijeth-simha/web-app](https://github.com/vijeth-simha/web-app)
+Project Link: [https://github.com/vijeth-simha/nodejs-express-webapp-template](https://github.com/vijeth-simha/nodejs-express-webapp-template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
