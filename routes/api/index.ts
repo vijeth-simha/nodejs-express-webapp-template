@@ -1,0 +1,5 @@
+export {default as AuthRoutes} from './auth/auth'
+export {default as CourseRoutes} from './courses/course'
+export {default as ContactRoutes} from './contact/contact'
+export {default as AboutUsRoutes} from './about/about'
+export {default as HomeRoutes} from './home/home'
