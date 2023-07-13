@@ -157,7 +157,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@vijeth_simha](https://twitter.com/vijeth_simha) - vijethsimha71@gmail.com
+Vieth Simha - [@vijeth_simha](https://twitter.com/vijeth_simha) - vijethsimha71@gmail.com
 
 Project Link: [https://github.com/vijeth-simha/nodejs-express-webapp-template](https://github.com/vijeth-simha/nodejs-express-webapp-template)
 
